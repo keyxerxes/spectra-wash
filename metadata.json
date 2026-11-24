@@ -1,0 +1,6 @@
+{
+  "name": "SPECTRA-WASH",
+  "description": "100% client-side, zero-API lossless visual watermark disruption and forensic spectral inspection workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
